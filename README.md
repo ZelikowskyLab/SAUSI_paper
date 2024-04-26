@@ -1,4 +1,4 @@
-# SAUSI_paper_eLife
+# SAUSI_paper
 All files and code associated with SAUSI elife paper
 
 z-score_regression_analysis:
