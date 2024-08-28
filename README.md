@@ -1,5 +1,5 @@
-# SAUSI_paper_eLife
-All files and code associated with SAUSI elife paper
+# SAUSI_paper
+All files and code associated with SAUSI paper
 
 z-score_regression_analysis:
 Use: run multi-logistic and multi-linear regression on normalized data-sets. Find training accuracy & plot feature importance.
